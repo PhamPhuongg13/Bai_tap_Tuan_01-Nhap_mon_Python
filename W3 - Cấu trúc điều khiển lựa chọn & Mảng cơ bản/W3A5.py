@@ -1,0 +1,4 @@
+import math
+
+m, n = map(float, input().split())
+print(math.ceil(m / n))
